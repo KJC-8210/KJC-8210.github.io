@@ -1,1 +1,40 @@
+body {
+  text-align:center;
+  background-color:grey;
+  color: white;
+  font-family: Arial;
+  margin: 10% 20%;
+ 
+}
+.header{
+  font-size:22px;
+  outline: 1px solid black;
+}
+}
+H2{
+  font-Size: 25px;
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 1px solid white;
+  border-bottom:1px solid white ;
+  background-color: rgba(0,0,0, 0.1);
+}
 
+h3{
+  font-size:20px;
+  text-align: left;
+}
+
+h4{
+  font-size:12px;
+  text-align: left;
+}
+
+p{
+  text-align:left;
+}
+ul{
+  text-align:left;
+  
+  \
+}
